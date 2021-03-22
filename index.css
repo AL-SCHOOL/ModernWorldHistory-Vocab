@@ -1,3 +1,12 @@
+h1 {
+  text-align: center;
+}
+
+b {
+  font-size: 12px;
+}
+
 blue {
   color: blue;
+  font-size: 12px;
 }
